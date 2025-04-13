@@ -1,1 +1,1 @@
-# Retail-Inventory-POS-
+# Retail Inventory & POS System
